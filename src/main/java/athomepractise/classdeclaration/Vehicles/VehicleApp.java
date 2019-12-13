@@ -10,5 +10,8 @@ public class VehicleApp {
         gallons = semi.fuelNeeded(distance);
         System.out.printf("Semi can carry %d pounds\n", semi.getCargoCap());
         System.out.printf("To do %d miles semi needs %f gallons\n", distance, gallons);
+        for (int i = 0; i <10000000 ; i++) {
+
+        }
     }
 }
